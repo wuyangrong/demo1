@@ -9,6 +9,5 @@ public class Test {
     @JSONField(name = "aaa")
     private Integer aa;
 
-    @JSONField(name = "bbb")
     private String bb;
 }
