@@ -6,7 +6,7 @@ import lombok.Data;
 @Data
 public class Test {
 
-    @JSONField(name = "aaa")
+    @JSONField(name = "id")
     private Integer aa;
 
     private String bb;
